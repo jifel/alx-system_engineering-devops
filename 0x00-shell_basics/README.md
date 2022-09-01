@@ -15,4 +15,5 @@ This project does the following:
 14. Creating a symbolic link
 15. Copying all html files
 16. Create a script that moves all files beginning with an uppercase letter to the directory tmp u
-17. delete all files that end with ~ 
+17. delete all files that end with ~
+18. create multiple directories 
