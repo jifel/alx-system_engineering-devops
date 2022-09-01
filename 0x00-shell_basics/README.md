@@ -14,3 +14,4 @@ This project does the following:
 13. File type
 14. Creating a symbolic link
 15. Copying all html files
+16. Create a script that moves all files beginning with an uppercase letter to the directory tmp u
