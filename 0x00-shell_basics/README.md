@@ -9,3 +9,6 @@ This project does the following:
 8. Move the file betty from tmp to tmp my first directory
 9. delete the file betty
 10. Delete the directory my first directory that is in the tmp folder
+11. Write a script that changes the working directory to the previous one.
+
+
