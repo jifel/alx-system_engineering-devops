@@ -9,7 +9,9 @@
 8. Write a script that writes into the file ls_cwd_content the result of the command ls -la.
 9. Write a script that duplicates the last line of the file iacta
 10. Write a script that deletes all the regular files (not the directories) with a .js extension that are present in the current directory and all its subfolders.
-11. Write a script that displays all users and their home directories, sorted by users.
+11. Create a script that displays the 10 newest files in the current directory.
+
+12. Write a script that displays all users and their home directories, sorted by users.
 
 
  
