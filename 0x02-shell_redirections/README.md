@@ -17,6 +17,8 @@
 16. Display all lines of the file /etc/ssh/sshd_config starting with a letter.
 17. Replace all characters A and c from input to Z and e respectively.
 18. Create a script that removes all letters c and C from input.
+19. Write a script that reverse its input.
+
 
 
 
