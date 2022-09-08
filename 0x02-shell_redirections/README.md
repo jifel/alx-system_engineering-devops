@@ -15,6 +15,7 @@
 14. Display the number of lines that contain the pattern “bin” in the file /etc/passwd
 15. Display lines containing the pattern “root” and 3 lines after them in the file /etc/passwd.
 16. Display all lines of the file /etc/ssh/sshd_config starting with a letter.
+17. Replace all characters A and c from input to Z and e respectively.
 
 
 
